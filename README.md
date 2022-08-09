@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hi,there!%20I'm%20eseul.&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi,%20there!%20I'm%20Eseul.&fontSize=60&fontColor=d6ace6&animation=fadeIn)
 
-<div align=center><p>:hammer: Tech stacks :wrench: </p></br>
+<div align=center><p><h3>:hammer: Tech stacks :wrench: </p></br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/> 
@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 </div>
+
+![eseulLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eseulLee&theme=discord_old_blurple&show_icons=true)
+
