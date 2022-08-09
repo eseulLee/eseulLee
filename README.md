@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **eseulLee/eseulLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=I'm%20eseul&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hi,there!%20I'm%20eseul.&fontSize=60)
 
 <div align=center><p>:hammer: Tech stacks :wrench: </p></br>
 
