@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi,%20there!%20I'm%20Eseul.&fontSize=60&fontColor=d6ace6&animation=fadeIn)
-
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=𝑯𝒊,%20𝒕𝒉𝒆𝒓𝒆!%20𝑰'𝒎%20𝑬𝒔𝒆𝒖𝒍.&fontSize=60&fontColor=d6ace6&animation=fadeIn)
 
 <div align=center><p><h3>:fire: Tech stacks :fire: </p></br>
 
