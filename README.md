@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi,%20there!%20I'm%20Eseul.&fontSize=60&fontColor=d6ace6&animation=fadeIn)
 
-<div align=center><p><h3>:hammer: Tech stacks :wrench: </p></br>
+<div align=center><p><h3>:fire: Tech stacks :fire: </p></br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/> 
