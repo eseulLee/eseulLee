@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 </div>
-
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eseulLee&show_icons=true&bg_color=00000000)
 ![](https://github.com/eseulLee/github-stats-transparent/blob/output/generated/languages.svg)
