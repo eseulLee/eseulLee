@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eseulLee&show_icons=true&bg_color=00000000)
-![top langs](https://github.com/eseulLee/github-stats-transparent/blob/output/generated/languages.svg)
+![top langs](https://github.com/eseulLee/github-stats-transparent/blob/output/generated/languages.svg) 
