@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 <div align=center><p><h3>:fire: Tech stacks :fire: </p></br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> 
+</br>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=ScikitLearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
 </br>
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
@@ -37,5 +39,16 @@ Here are some ideas to get you started:
 </div>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eseulLee&show_icons=true&bg_color=00000000)
-![top langs](https://github.com/eseulLee/github-stats-transparent/blob/output/generated/languages.svg) 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eseulLee&show_icons=true&bg_color=00000000" />
+</a>
+
+<a href="https://github.com/eseulLee/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseulLee&bg_color=00000000" />
+</a> 
+
+
+<a href="https://solved.ac/eseul3402">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eseul3402" />
+</a>
+  
