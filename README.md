@@ -39,6 +39,14 @@ Here are some ideas to get you started:
 </div>
 </br>
 
+<div align=center>
+<a href="https://solved.ac/eseul3402">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eseul3402" />
+</a>
+</div>
+</br>
+
+<div align=center>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eseulLee&show_icons=true&bg_color=00000000" />
 </a>
@@ -46,9 +54,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseulLee&bg_color=00000000" />
 </a> 
+</div>
 
 
-<a href="https://solved.ac/eseul3402">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eseul3402" />
-</a>
   
