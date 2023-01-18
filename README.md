@@ -46,15 +46,6 @@ Here are some ideas to get you started:
 </div>
 </br>
 
-<div align=center>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eseulLee&show_icons=true&bg_color=00000000" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eseulLee&bg_color=00000000" />
-</a> 
-</div>
 
 
   
